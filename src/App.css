@@ -1,0 +1,20 @@
+html {
+  background-color: #5f45bb;
+  background-image: linear-gradient(to bottom right, #180cac, #d054e4);
+  color: #ffffff;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  /*   min-width: 300px; */
+  overflow-x: hidden;
+}
+
+#root {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 50vh;
+}
